@@ -31,6 +31,8 @@ int main() {
 void bubble_sort(long arr[], long size) {
     long temp;
     int flag;
+    if (size == 1)
+        return;
     for (size_t i = 0; i < size - 1; ++i) {
         flag = 0;
         for (size_t j = 0; j < size - 1 - i; ++j) {
