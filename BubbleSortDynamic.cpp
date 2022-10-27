@@ -3,31 +3,6 @@
 //
 #include <bits/stdc++.h>
 
-void bubble_sort(long arr[], long size);
-
-int main() {
-    // Taking input for the size of the Array
-    long size;
-    printf("Enter the size of the Array: ");
-    scanf("%ld", &size);
-
-    // Taking input for the Array Elements
-    long arr[1000];
-    printf("Enter the %ld Elements of the Array: ", size);
-    for (size_t i = 0; i < size; i++) {
-        scanf("%ld", &arr[i]);
-    }
-
-    // Sorting the by calling the function
-    bubble_sort(arr, size);
-
-    // Showing the Sorted Array elements
-    printf("Sorted list in ascending order:\n");
-    for (size_t k = 0; k < size; ++k) {
-        printf("%ld\t", arr[k]);
-    }
-}
-
 void bubble_sort(long arr[], long size) {
     long temp;
     int flag;
@@ -47,4 +22,28 @@ void bubble_sort(long arr[], long size) {
         if (flag == 0)
             break;
     }
+}
+
+int main() {
+    // long n = 7;
+    // long arr[] = {123, -2, 12, 34, 23, 67, 90};
+
+    long n; // initialize the size of the Array
+    printf("Enter the size of the Array: ");
+    scanf("%ld", &n); // Taking input the size of the Array
+
+    long arr[1000]; // initialize the Array
+    printf("Enter %ld Elements of the Array: ", n);
+    for (size_t i = 0; i < n; ++i) {
+        scanf("%ld", &arr[i]); // Taking input the Array Elements
+    }
+
+    // Sorting the Array by calling the function
+    selection_sort(arr, n);
+
+    // Showing the sorted Array
+    for (size_t i = 0; i < n; i++) {
+        printf("%ld\t", arr[i]);
+    }
+    return 0;
 }
