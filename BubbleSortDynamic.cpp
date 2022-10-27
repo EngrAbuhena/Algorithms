@@ -39,7 +39,7 @@ int main() {
     }
 
     // Sorting the Array by calling the function
-    selection_sort(arr, n);
+    bubble_sort(arr, n);
 
     // Showing the sorted Array
     for (size_t i = 0; i < n; i++) {
