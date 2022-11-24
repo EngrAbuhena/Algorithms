@@ -23,9 +23,7 @@ void selection_sort(long array[], long size) {
         long temp = array[i];
         array[i] = array[min_index];
         array[min_index] = temp;
-
     }
-
 }
 
 int main() {
