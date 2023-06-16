@@ -1,3 +1,6 @@
+/**
+ * @author Abuhena Rony
+ */
 public class BinarySearch {
     // Binary Search Function
     static int binarySearch(int arr[], int num, int left, int right) {
