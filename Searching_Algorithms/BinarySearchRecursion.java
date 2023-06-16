@@ -1,7 +1,7 @@
 /**
  * @author Abuhena Rony
  */
-public class Binary_Search {
+public class BinarySearchRecursion {
     // binary search function
     public static int binarySearch(int[] arr, int num, int left, int right) {
         // calculating middle point
