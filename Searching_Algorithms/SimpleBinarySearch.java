@@ -1,5 +1,5 @@
 /**
- * @author Abuhena Rony
+ * @author AbuhenaRony
  */
 public class BinarySearch {
     // Binary Search Function
