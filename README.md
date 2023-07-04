@@ -23,6 +23,13 @@ Some algorithms those programmers always use.
   - [Recursive Insertion Sort](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
   - [Merge Sort](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
    - [Quick Sort](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+   ## Searching Algorithms
+
+  - [Linear Search](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+  - [Binary Search](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+  - [Recursive Binary Search](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
