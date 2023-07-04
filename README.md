@@ -13,9 +13,10 @@ Some algorithms those programmers always use.
 
 ## Sorting Algorithms I
 
- - [Selection Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
- - [Bubble Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
- - [Insertion Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
+ - [Selection Sort C++](https://github.com/EngrAbuhena/Algorithms/blob/main/SortingAlgorithms/SelectionSort.cpp)
+ - [Bubble Sort C++](https://github.com/EngrAbuhena/Algorithms/blob/main/SortingAlgorithms/BubbleSort.cpp)
+ - [Bubble Sort Java](https://github.com/EngrAbuhena/Algorithms/blob/main/SortingAlgorithms/BubbleSort.java)
+ - [Insertion Sort Java](https://github.com/EngrAbuhena/Algorithms/blob/main/)
 
 ## Sorting Algorithms II
 
