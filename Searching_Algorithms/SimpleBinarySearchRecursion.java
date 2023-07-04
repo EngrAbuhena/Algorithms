@@ -1,5 +1,5 @@
 /**
- * @author Abuhena Rony
+ * @author AbuhenaRony
  */
 public class BinarySearchRecursion {
     // binary search function
