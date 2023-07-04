@@ -13,22 +13,22 @@ Some algorithms those programmers always use.
 
 ## Sorting Algorithms I
 
- - [Selection Sort](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Bubble Sort](https://github.com/matiassingers/awesome-readme)
- - [Insertion Sort](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Selection Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
+ - [Bubble Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
+ - [Insertion Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
 
 ## Sorting Algorithms II
 
- - [Recursive Bubble Sort](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [Recursive Insertion Sort](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [Merge Sort](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-   - [Quick Sort](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Recursive Bubble Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
+ - [Recursive Insertion Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
+ - [Merge Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
+ - [Quick Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
 
-   ## Searching Algorithms
+## Searching Algorithms
 
-  - [Linear Search](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [Binary Search](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [Recursive Binary Search](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+  - [Linear Search](https://github.com/EngrAbuhena/Algorithms/blob/main/)
+  - [Binary Search](https://github.com/EngrAbuhena/Algorithms/blob/main/Searching_Algorithms/BinarySearch.java)
+  - [Recursive Binary Search](https://github.com/EngrAbuhena/Algorithms/blob/main/Searching_Algorithms/BinarySearchAlgorithmRecursive.java)
 
 ## License
 
