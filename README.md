@@ -13,17 +13,17 @@ Some algorithms those programmers always use.
 
 ## Sorting Algorithms I
 
- - [Selection Sort C++](https://github.com/EngrAbuhena/Algorithms/blob/main/SortingAlgorithms/SelectionSort.cpp)
- - [Bubble Sort C++](https://github.com/EngrAbuhena/Algorithms/blob/main/SortingAlgorithms/BubbleSort.cpp)
- - [Bubble Sort Java](https://github.com/EngrAbuhena/Algorithms/blob/main/SortingAlgorithms/BubbleSort.java)
- - [Insertion Sort Java](https://github.com/EngrAbuhena/Algorithms/blob/main/)
+ - [Selection Sort in C++](https://github.com/EngrAbuhena/Algorithms/blob/main/SortingAlgorithms/SelectionSort.cpp)
+ - [Bubble Sort in C++](https://github.com/EngrAbuhena/Algorithms/blob/main/SortingAlgorithms/BubbleSort.cpp)
+ - [Bubble Sort in Java](https://github.com/EngrAbuhena/Algorithms/blob/main/SortingAlgorithms/BubbleSort.java)
+ - [Insertion Sort in Java](https://github.com/EngrAbuhena/Algorithms/blob/main/SortingAlgorithms/InsertionSortAlgorithm.java)
 
 ## Sorting Algorithms II
 
- - [Recursive Bubble Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
- - [Recursive Insertion Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
- - [Merge Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
- - [Quick Sort](https://github.com/EngrAbuhena/Algorithms/blob/main/)
+ - [Recursive Bubble Sort in Java](https://github.com/EngrAbuhena/Algorithms/blob/main/)
+ - [Recursive Insertion Sort in Java](https://github.com/EngrAbuhena/Algorithms/blob/main/)
+ - [Merge Sort in Java](https://github.com/EngrAbuhena/Algorithms/blob/main/)
+ - [Quick Sort in Java](https://github.com/EngrAbuhena/Algorithms/blob/main/)
 
 ## Searching Algorithms
 
